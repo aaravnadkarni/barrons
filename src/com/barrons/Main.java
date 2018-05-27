@@ -11,7 +11,8 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		ChapterOne.problem();
+		ChapterOne.problem2();
+		ChapterOne.problem3();
 	}
 
 	}

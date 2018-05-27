@@ -13,6 +13,7 @@ public class Main {
 		
 		ChapterOne.problem2();
 		ChapterOne.problem3();
+		ChapterOne.problem4();
 	}
 
 	}

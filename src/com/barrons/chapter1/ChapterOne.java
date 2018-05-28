@@ -6,7 +6,7 @@ public class ChapterOne {
 		// TODO Auto-generated constructor stub
 	}
 	
-	//Problem 1 was not 
+	//Problem 1 did not need to be implemented
 	
 	public static void problem2() {
 		System.out.println("\\* This is not \n a comment *\\");
@@ -22,5 +22,9 @@ public class ChapterOne {
 	public static void problem4() {
 		double answer = (double) (13 / 5);
 		System.out.println("13 / 5 = " + answer);
+	}
+	public static void problem5() {
+		int result = 13 - 3 *6 / 4 % 3;
+		System.out.println(result);
 	}
 }
